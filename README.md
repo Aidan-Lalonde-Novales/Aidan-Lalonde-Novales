@@ -21,7 +21,7 @@ also i bike and tutor math, pre cool i think
   <br/>
   
 ### **🛠️ toolies i keep on me 🛠️**
-<p>
+  
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -39,7 +39,7 @@ also i bike and tutor math, pre cool i think
   <br/>
   
 ### **💬 language overview 💬 (got this from a dude who forked mr coxall)**
-<p>
+  
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="aidans github stats" src="https://github-readme-stats.vercel.app/api?username=Aidan-Lalonde-Novales&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="aidas github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
