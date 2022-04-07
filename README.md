@@ -1,7 +1,7 @@
 # **ayo was good❓❓❓**
 
 <li>
-how you doin my names Aidan nice to see you
+how you doin my names aidan nice to see you
 <li>
 im 💻LINUX CERTIFIED💻 and also know the 🐾PACKET TRACER BASICS🐾
 <li>
@@ -24,6 +24,14 @@ also i bike and tutor math, pre cool i think
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+### **🚶‍♂️ Operating Systems I frequent 🚶‍♂️**
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   
 ### **💬 language overview 💬 (got this from a dude who forked mr coxall)**
   <br/>
@@ -33,6 +41,3 @@ also i bike and tutor math, pre cool i think
   <br/>
 
 ### 
-  
-
-<a href="https://discord.gg/x4Fxkvxq"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="DON'T CLICK ME"/></a>
