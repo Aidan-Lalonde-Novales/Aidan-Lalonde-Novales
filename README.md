@@ -1,11 +1,11 @@
 # **ayo was good❓❓❓**
 
 <li>
-how you doin my names aidan nice to see you
+**how you doin** my name's **aidan** nice to see you
 <li>
-im 💻LINUX CERTIFIED💻 and also know the 🐾PACKET TRACER BASICS🐾
+im **💻LINUX CERTIFIED💻** and also know the **👨‍🦯PACKET TRACER BASICS👨‍🦯**
 <li>
-also i bike and tutor math, pre cool i think
+also i **bike** and **tutor math**, pre cool i think
 
 ### **👨‍💻 languages im currently learning 👨‍💻**
 <p>
@@ -31,7 +31,7 @@ also i bike and tutor math, pre cool i think
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android")
   
 ### **💬 language overview 💬 (got this from a dude who forked mr coxall)**
   <br/>
