@@ -23,7 +23,6 @@ also i bike and tutor math, pre cool i think
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   
 ### **💬 language overview 💬 (got this from a dude who forked mr coxall)** 
- <br/>
     <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aidan-Lalonde-Novales&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Abdul Basit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
