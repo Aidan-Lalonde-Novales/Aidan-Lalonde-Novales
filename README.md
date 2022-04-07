@@ -29,7 +29,7 @@ also i bike and tutor math, pre cool i think
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   <br/>
 
-### **🚶‍♂️ Operating Systems I frequent 🚶‍♂️**
+### **🚶‍♂️ operating systems I frequent 🚶‍♂️**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
@@ -44,4 +44,6 @@ also i bike and tutor math, pre cool i think
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="aidas github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-### pushin p
+### **🦈funny shark🦈**
+
+  <img alt="shark" src="1.gif"> </img>
