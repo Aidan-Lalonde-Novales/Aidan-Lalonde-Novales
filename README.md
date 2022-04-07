@@ -31,3 +31,8 @@ also i bike and tutor math, pre cool i think
   <br/>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Abdul Basit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+### 
+  
+
+<a href="https://discord.gg/x4Fxkvxq"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="DON'T CLICK ME"/></a>
