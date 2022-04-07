@@ -12,7 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&layout=compact)
   
 ### **🛠️ toolies i keep on me 🛠️**
-<p>
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
