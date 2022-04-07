@@ -1,5 +1,6 @@
 # **ayo was good❓❓❓**
 
+<li>
 how you doin my names Aidan nice to see you
 <li>
 im 💻LINUX CERTIFIED💻 and also know the 🐾PACKET TRACER BASICS🐾
