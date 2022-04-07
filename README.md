@@ -8,11 +8,14 @@
 ### 😴 im rusty wit these 😴
 <p>
   <a href="https://github.com/Aidan-Lalonde-Novales?tab=repositories&q=&type=&language=html&sort="><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/Aidan-Lalonde-Novales?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   
 ### **🛠️ toolies i keep on me 🛠️**
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ### **💬 language overview 💬** 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&layout=compact)
