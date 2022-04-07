@@ -1,7 +1,9 @@
 # **ayo was good❓❓❓**
 
-how you doin my names aidan nice to see you
+how you doin my names Aidan nice to see you
+<li>
 im 💻LINUX CERTIFIED💻 and also know the 🐾PACKET TRACER BASICS🐾
+<li>
 also i bike and tutor math, pre cool i think
 
 ### **👨‍💻 languages im currently learning 👨‍💻**
@@ -22,8 +24,9 @@ also i bike and tutor math, pre cool i think
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   
-### **💬 language overview 💬 (got this from a dude who forked mr coxall)** 
+### **💬 language overview 💬 (got this from a dude who forked mr coxall)**
+  <br/>
     <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aidan-Lalonde-Novales&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <br/>
+  <br/>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Abdul Basit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <br/>
+  <br/>
