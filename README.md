@@ -3,7 +3,7 @@
 <li>
 how you doin my name's aidan nice to see you
 <li>
-im 💻LINUX CERTIFIED💻 and also know the 👨‍🦯PACKET TRACER BASICS👨‍🦯
+im 💻LINUX CERTIFIED💻 and also know the👨‍🦯PACKET TRACER BASICS👨‍🦯
 <li>
 also i bike and tutor math, pre cool i think
 
@@ -44,6 +44,6 @@ also i bike and tutor math, pre cool i think
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="aidas github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-### **🦈funny shark🦈**
+### **🦈 funny shark 🦈**
 
   <img alt="shark" src="1.gif"> </img>
