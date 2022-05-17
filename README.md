@@ -44,8 +44,8 @@ I currently tutor Grade 10 Math for 2 hours a week.
   
 ### **💬 Language Summary 💬**
   
-  [![Anuraghazra's Top Langs Widget](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![willianrod's Wakatime Stats Widget](https://github-readme-stats.vercel.app/api/wakatime?username=Aidan-Lalonde-Novales)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aidan-Lalonde-Novales&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Lalonde-Novales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **🦈 I Just Wanted to Add a Gif 🦈**
 
