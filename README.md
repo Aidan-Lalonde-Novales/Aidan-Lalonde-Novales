@@ -1,7 +1,7 @@
 # **Hello! 👋**
 
 <li>
-I am a Grade 11 student attending Saint Mother Teresa High School at 440 Longfields Drive Ottawa, Ontario.
+I am a Grade 12 student attending Saint Mother Teresa High School at 440 Longfields Drive Ottawa, Ontario.
 <li>
 I have beginner qualifications in 💻Linux💻 and 👨‍🦯Cisco Packet Tracer👨‍🦯.
 <li>
