@@ -11,7 +11,8 @@ I currently tutor Grade 10 Math for 2 hours a week.
 
 ### **👨‍💻 Languages I am Currently Learning 👨‍💻**
 <p>
-  
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <br/>
 
 ### **😴 Languages I am Out of Practice With 😴**
