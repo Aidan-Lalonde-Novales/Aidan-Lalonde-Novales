@@ -11,8 +11,8 @@ I currently tutor Grade 10 Math for 2 hours a week.
 
 ### **👨‍💻 Languages I am Currently Learning 👨‍💻**
 <p>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <br/>
 
 ### **😴 Languages I am Out of Practice With 😴**
@@ -22,7 +22,7 @@ I currently tutor Grade 10 Math for 2 hours a week.
   <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AAidan-Lalonde-Novales+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+  
   <br/>
   
 ### **🛠️ Tools I use Often 🛠️**
