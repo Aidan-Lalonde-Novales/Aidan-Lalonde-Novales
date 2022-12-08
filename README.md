@@ -1,6 +1,6 @@
-### gtfo
+### yo
 <p>
-  you're only here to copy code
+  was good
 </p>
 
 <!-- <img alt="xva" src="xva.gif"> </img> -->
